@@ -1,0 +1,25 @@
+[c][*]ying thai kitchen[/*][/c]
+address [*]2220 queen anne ave n[/*]
+
+
+seattle wa 98109
+Tel. (206) 285-8424 Fax. (206) 285-8427
+www.yingthaikitchen.com
+[c]welcom to Ying Thai Kitchen Restaurant. welcom to Ying Thai Kitchen Restaurant. welcom to Ying Thai Kitchen Restaurant.[/c]
+
+[*]Order#: 17[/*] [r][*]table 2[/*][/r]
+Date: 7/4/2013 7:28 PM
+Server: Jack [r](T.4)[/r]
+
+44 Ginger Lover [r]$9.50[/r]
+[Pork][2**]
+Brown Rice [r]$2.00[/r]
+
+Total 2 items(s) [r]$11.50[/r]
+Sales Tax [r]$1.09[/r]
+
+[*]Grand Total[/*] [r][*]$12.59[/*][/r]
+
+
+[c]Thank you very much.[/c]
+[c]Come back again.[/c]
